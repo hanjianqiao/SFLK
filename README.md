@@ -1,4 +1,4 @@
 # SFLK
 Simple Foundation Linker
 
-under go
+v0.0 is a part of v0.0 project
